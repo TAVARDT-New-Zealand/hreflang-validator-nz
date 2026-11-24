@@ -49,3 +49,7 @@ For full web verification and deep multi-region audits:
 ## International SEO and Export Market Digital Advisory
 
 For platforms operating across New Zealand and international export markets under W3C Standards and NZ Digital Government Guidelines, contact **TAVARDT New Zealand**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
