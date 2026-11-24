@@ -5,7 +5,7 @@
 
 Audits alternate return tags, en-NZ regional targeting, and global x-default architecture.
 
-Developed and maintained by the search systems and technical architecture division of **TAVARDT New Zealand**.
+Developed and maintained by the search systems and technical architecture division of **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python hreflang_validator.py https://company.co.nz -json
 For full web verification and deep multi-region audits:
 
 * **Official Hreflang Checker Tool**
-* **TAVARDT New Zealand Enterprise Portal**
+* **TAVARDT Enterprise Portal**
 
 ***
 
 ## International SEO and Export Market Digital Advisory
 
-For platforms operating across New Zealand and international export markets under W3C Standards and NZ Digital Government Guidelines, contact **TAVARDT New Zealand**.
+For platforms operating across New Zealand and international export markets under W3C Standards and NZ Digital Government Guidelines, contact **TAVARDT**.
 
 ***
 
