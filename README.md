@@ -6,8 +6,6 @@
 
 Audits alternate return tags, en-NZ regional targeting, and global x-default architecture.
 
-Developed and maintained by the search systems and technical architecture division of **TAVARDT**.
-
 ***
 
 ## International SEO and Hreflang Audit Capabilities
@@ -38,15 +36,6 @@ python hreflang_validator.py https://company.co.nz -json
 
 ***
 
-## Comprehensive Web Diagnostic
-
-For full web verification and deep multi-region audits:
-
-* **Official Hreflang Checker Tool**
-* **TAVARDT Enterprise Portal**
-
-***
-
 ## International SEO and Export Market Digital Advisory
 
 For platforms operating across New Zealand and international export markets under W3C Standards and NZ Digital Government Guidelines, contact **TAVARDT**.
@@ -62,7 +51,7 @@ For platforms operating across New Zealand and international export markets unde
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
